@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='#'>Affiliations</a>. "L'étude approfondie de la nature est la source la plus féconde des découvertes mathématiques."
 profile:
   align: right
   image: prof_pic.jpg
