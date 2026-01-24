@@ -13,7 +13,8 @@ profile:
     <p>Your City, State 12345</p>
 
 <!--
-subtitle: <a href='#'>Affiliations</a>.
+Previous
+subtitle: <a href='#'>Affiliations</a>
 -->
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
